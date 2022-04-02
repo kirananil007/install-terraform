@@ -33,6 +33,7 @@ Terraform is a tool to manage the entire lifecycle of buiding, changing and vers
 
     ![Set Version](/images/unzip_tf.png)
     <figcaption align="center">Fig 3.b</figcaption>
+    
     -----------------------------------------------------------------------
 
 4. Move terraform binary to the local/bin.
